@@ -81,7 +81,8 @@ implements ActionListener, KeyListener, ItemListener, FocusListener {
 		panelMain = new JPanel(new BorderLayout(10, 10));
 		bott.setBorder(new LineBorder (new Color(184, 173, 151)));
 		buildCenter();
-		
+
+//		11
 		panelMain.add("North", top);
 		panelMain.add("South", bott);
 		panelMain.add(panelInfo);
