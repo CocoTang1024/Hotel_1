@@ -1,66 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="797eac81-f4ed-4b43-8961-8cd24be94ccc" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hotel_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/about/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/checkout/CheckOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/customer/AddHuiYuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/customer/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/customer/ModiHuiYuan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/engage/Eindividual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/engage/Engage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/engage/EngageInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/engage/ModiEngage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/individual/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/login/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/mainframe/HotelFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/mainframe/LeftBottPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/mainframe/LeftTopPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/mainframe/RightBottPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/mainframe/RightTopPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/menu/ApartBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/menu/Change.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/menu/GoOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/menu/Record.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/menu/UniteBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/netsetup/NetSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/query/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/AddCustomerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/AddRoomInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/AddRoomInfos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/AddRoomType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/ModiCustomerType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/ModiRoomInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/ModiRoomType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/setup/Setup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/sql/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/sql/sunsql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/CsUIManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/FStartWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/JQFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/SlitherMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/TJButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/TJList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/TJMoneyField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/TJPasswordField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/TJTextArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/TJTextField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/Theme/DarkGoldMetalTheme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/Theme/DesertMetalTheme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/ViewList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/swing/sunswing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/system/CsHashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/system/ToCap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/system/sunini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/sunsdk/system/suntools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sunshine/team/Team.java" afterDir="false" />
-    </list>
+    <list default="true" id="797eac81-f4ed-4b43-8961-8cd24be94ccc" name="变更" comment="RJGC-homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +26,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Programs/Codes/Java/IDEA/CCUT/Hotel_1/src"
+    "last_opened_file_path": "D:/Programs/Codes/Java/IDEA/CCUT/Hotel_1/src",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -121,8 +63,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666495230442</updated>
-      <workItem from="1666495231743" duration="690000" />
+      <workItem from="1666495231743" duration="942000" />
     </task>
+    <task id="LOCAL-00001" summary="RJGC-homework">
+      <created>1666507020515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666507020515</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RJGC-homework">
+      <created>1666507029334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666507029334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RJGC-homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="RJGC-homework" />
   </component>
 </project>
